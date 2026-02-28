@@ -49,7 +49,7 @@ uv pip install -r requirements.txt
 ### 4. Run the app
 
 ```bash
-streamlit run app.py
+streamlit run app.py --server.port 8502
 ```
 
 The app will be available at:  
