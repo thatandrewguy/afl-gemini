@@ -1,0 +1,16 @@
+[server]
+baseUrlPath = "/afl-gemini"
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#00e676"
+backgroundColor = "#0a0f0a"
+secondaryBackgroundColor = "#0d1a0d"
+textColor = "#e0e0e0"
+font = "sans serif"
